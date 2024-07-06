@@ -16,7 +16,7 @@ Este proyecto te permite transformar datos almacenados en SQL Server en formatos
 
 ## Uso
 
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/tu_repositorio.git`
+1. Clona este repositorio: `https://github.com/JUANCITOPENA/ARCHIVOS_CSV_JSON_XLSX.git`
 2. Instala las dependencias: `pip install -r requirements.txt`
 3. Configura los parámetros de conexión a tu instancia de SQL Server en `config.py`.
 4. Ejecuta los scripts según el formato deseado:
@@ -35,4 +35,4 @@ Distribuido bajo la licencia MIT. Consulte `LICENSE` para más información.
 
 ---
 
-© 2024 Tu Nombre
+© 2024 JUANCITO PENA
